@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAEA,YACE,kBACF,CAEA,YACE,aAAc,CACd,mBACF,CAEA,uBACE,gBACF","file":"style.fda8efb4.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n\n.form__part {\n  margin-bottom: 20px;\n}\n\n.form__item {\n  display: block;\n  padding-bottom: 10px;\n}\n\n.form__item:last-child {\n  padding-bottom: 0;\n}\n"]}
